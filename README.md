@@ -1,6 +1,6 @@
 <!-- About Me -->
 ## 👋 Hi, I’m Arsh Sharan  
-- 🎓 B.Tech in Electrical Engineering, DTU (CGPA: 8.7/10)  
+- 🎓 B.Tech in Electrical Engineering, DTU
 - 💻 Passionate about building high-performance C++ applications and scalable Java backends  
 - 🌱 Continuously learning advanced algorithms, system design, and state-of-the-art ML models
 
