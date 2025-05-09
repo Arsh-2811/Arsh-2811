@@ -55,10 +55,3 @@
     </td>
   </tr>
 </table>
-
-<!-- Contact -->
-
-## 📫 How to Reach Me
-
-* ✉️ [arsh.sharan2811@gmail.com](mailto:arsh.sharan2811@gmail.com)
-* 🔗 [LinkedIn](https://linkedin.com/in/arsh-sharan)
