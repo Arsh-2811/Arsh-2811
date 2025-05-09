@@ -12,4 +12,6 @@
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes" alt="Kubernetes"/> <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws" alt="AWS"/> <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions" alt="GitHub Actions"/> <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium" alt="Selenium"/> 
 </p>
 
-![Language Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-2811&layout=donut&theme=radical) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsh-2811&theme=radical&show_icons=true&hide_rank=true&hide=stars,issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+![Language Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-2811&layout=donut) 
+
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arsh-2811&theme=radical&show_icons=true&hide_rank=true&hide=stars,issues,contribs,prs)](https://github.com/anuraghazra/github-readme-stats) -->
