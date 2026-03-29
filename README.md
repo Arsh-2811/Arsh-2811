@@ -42,9 +42,5 @@ I build low-latency systems and high-performance infrastructure. My work spans c
 | [**Matching Engine**](https://github.com/Arsh-2811/Matching-Engine) | Low-latency financial exchange — 14.6M orders/sec, 0.05ms P50 latency | C++, lock-free queues, SBE, epoll |
 | [**SamosaBot**](https://github.com/Arsh-2811/chess-engine) | Chess engine — Elo 2000, 500k moves/sec | C++, bitboards, Lazy SMP |
 | [**Git From Scratch++**](https://github.com/Arsh-2811/Git-from-scratch-cpp) | Git reimplementation with full-stack web UI | C++17, Java Spring Boot, React |
-| **LAN Terminal Chat** | E2E encrypted async chat — X25519 + ChaCha20-Poly1305, forward secrecy | Python asyncio, PostgreSQL |
-| **Home Server Infrastructure** | Zero-trust IaC home server — 20+ containers, VPN-only access, full CI/CD | Docker, Tailscale, GitHub Actions |
-
----
-
-![Language Donut](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsh-2811&layout=donut)
+| [**LAN Terminal Chat**](https://github.com/Arsh-2811/LAN-Terminal-Chat-Application) | E2E encrypted async chat — X25519 + ChaCha20-Poly1305, forward secrecy | Python asyncio, PostgreSQL |
+| [**Home Server Infrastructure**](https://github.com/Arsh-2811/Home-Lab-Setup) | Zero-trust IaC home server — 20+ containers, VPN-only access, full CI/CD | Docker, Tailscale, GitHub Actions |
