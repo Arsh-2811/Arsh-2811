@@ -24,7 +24,9 @@ I build low-latency systems and high-performance infrastructure. My work spans c
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis" alt="Redis"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/-Apache%20Kafka-231F20?style=flat&logo=apachekafka" alt="Apache Kafka"/>
   <img src="https://img.shields.io/badge/-CMake-064F8C?style=flat&logo=cmake" alt="CMake"/>
   <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions" alt="GitHub Actions"/>
 </p>
